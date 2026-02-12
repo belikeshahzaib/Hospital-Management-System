@@ -15,6 +15,6 @@ A comprehensive C++ console application designed to manage hospital operations e
 - **File I/O:** For permanent storage of records.
 
 ## 💻 How to Run
-1. Clone the repo: `git clone https://github.com/your-username/repo-name.git`
+1. Clone the repo: `git clone https://github.com/belikeshahzaib/Hospital-Management-System.git`
 2. Compile: `g++ main.cpp -o hospital_system`
 3. Run: `./hospital_system`
